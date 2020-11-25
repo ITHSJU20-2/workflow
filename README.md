@@ -13,7 +13,7 @@
 3. Divide the work between the members
 4. Create a repository
 5. Start writing the code
-    1. Always use Gradle to avoid cross-platform compatibility issues since we are on different operating systems. **Unless other information is given**
+    1. Always use a build automation tool like Gradle or Maven to avoid cross-platform compatibility issues since we are on different operating systems. **Unless other information is given**
 6. Communicate between eachother to avoid missing vital parts of the code that you might need for your part of the project.
 7. Push code to Github often. ***It's easier to rewrite 4-5 lines rather than 4-5 files***
 8. When approaching a finished codebase:
